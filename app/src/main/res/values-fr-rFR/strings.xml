@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">[MiW] Actividades - Ciclo Vida</string>
+    <string name="btn_start_dialog_label">Dialogue</string>
+    <string name="dialog_text">Dialogue Simple</string>
+    <string name="btn_finish_dialog_label">Fermer</string>
+</resources>
